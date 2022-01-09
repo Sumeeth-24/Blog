@@ -15,7 +15,7 @@ https://yodh.netlify.app/posts
 ## About the Project
 
 It is a Full Stack MERN Application where user can register and write articles, like the article, comment
-on other's article, bookmark your favorite article, update, delete and much more. You can search a particular
+on other's article, bookmark your favorite article, update, delete, chat with friends and much more. You can search a particular
 article using title in search bar and and also using tags.
 
 
@@ -28,12 +28,16 @@ article using title in search bar and and also using tags.
 - Tailwind.css
 - Material-UI
 - CK-Editor 5
+- Chat-Engine
+- Firebase
 
 ##  Features
 - Authentication and Authorization (using JSON web token, Formik and Yup for Validation)
 - Client Side Routing
 - Paginations
 - Searching
+- Comment and liking functionality
+- Chatroom (to make friends and talk with your friends)
 - Google OAuth
 
 
